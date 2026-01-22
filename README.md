@@ -34,7 +34,7 @@
 ---
 
 ## 📐 アーキテクチャ / 設計
-<img width="505" height="601" alt="スクリーンショット 0008-01-21 22 59 45" src="https://github.com/user-attachments/assets/70fd94b7-4017-4bf3-84e4-edecc8f7f823" />
+<img width="440" height="532" alt="スクリーンショット 0008-01-22 19 13 04" src="https://github.com/user-attachments/assets/07b6ef37-181d-4556-8ec1-309b3fc0a772" />
 
 
 ### データフロー
@@ -50,8 +50,3 @@
 * 売上分析ダッシュボードの実装
 
 ---
-
-## 👤 Author
-* **Name:** [あなたの名前/ハンドルネーム]
-* **Role:** Full Stack Developer
-* **Contact:** [Twitterやメールなど]
